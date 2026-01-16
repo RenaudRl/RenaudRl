@@ -13,7 +13,7 @@
 ### 🚀 Vision & Focus
 At **BTC Studio**, we architect experiences to make Minecraft deeper and more immersive.
 
-*   🎯 **Core Focus**: Most of our work is dedicated to developing extensions for the **TypeWriter** ecosystem, pushing the boundaries of interactive questing and mechanics.
+*   🎯 **Core Focus**: Most of our work is dedicated to developing extensions for the [TypeWriter](https://github.com/gabber235/Typewriter) ecosystem, pushing the boundaries of interactive questing and mechanics.
 *   🛠️ **Plugins & Optimization**: We also develop standalone plugins, custom forks, and optimize existing solutions to ensure a seamless server experience.
 *   📦 **Minecraft Versions**: We maintain specialized support for **Paper**, **Folia**, and our own **BTC Core** / **Advanced Slime Paper** adaptations.
 
@@ -35,30 +35,40 @@ High-performance development tailored for modern Minecraft platforms.
 
 ### 🌟 Featured Projects
 
-#### [BTC Core](https://github.com/RenaudRl/BTC-CORE)
-Our high-performance infrastructure foundations, designed for maximum stability and speed.
+#### 🛡️ Infrastructure Foundation
+*   **[BTC Core](https://github.com/RenaudRl/BTC-CORE)**: High-performance Paper fork optimized for our internal technologies.
+*   **[BTC Velocity](https://github.com/RenaudRl/BTCVelocity)**: Specialized Velocity proxy adaptation for enhanced connectivity.
 
-#### [TypeWriter Ecosystem](https://github.com/RenaudRl/Typewriter)
+#### 🖋️ [TypeWriter](https://github.com/gabber235/Typewriter) Ecosystem
 The next generation of questing and interactive mechanics.
 
-| Category | Free Extensions |
+| Category | Extensions |
 | :--- | :--- |
-| **🎮 Gameplay** | [QuestCodex](https://github.com/RenaudRl/Typewriter-QuestCodexExtension-Public), [EnchantmentCreator](https://github.com/RenaudRl/Typewriter-EnchantementCreatorExtension), [AdvancedShops](https://github.com/RenaudRl/AdvancedShopsExtension), [AdvancedEnchantments](https://github.com/RenaudRl/TypeWriter-AdvancedEnchantmentsExtension), [VanillaExtension](https://github.com/RenaudRl/TypeWriter-VanillaExtension), [VanillaEnchantments](https://github.com/RenaudRl/TypeWriter-VanillaEnchantmentsExtension) |
+| **🏆 Core Logic** | [QuestCodex](https://github.com/RenaudRl/Typewriter-QuestCodexExtension-Public), [Tracking](https://github.com/RenaudRl/Typewriter-TrackingExtension) |
+| **🎮 Gameplay** | [EnchantmentCreator](https://github.com/RenaudRl/Typewriter-EnchantementCreatorExtension), [AdvancedShops](https://github.com/RenaudRl/AdvancedShopsExtension), [AdvancedEnchantments](https://github.com/RenaudRl/TypeWriter-AdvancedEnchantmentsExtension), [VanillaExtension](https://github.com/RenaudRl/TypeWriter-VanillaExtension), [VanillaEnchantments](https://github.com/RenaudRl/TypeWriter-VanillaEnchantmentsExtension) |
 | **✨ Immersion** | [DialogMenu](https://github.com/RenaudRl/Typewriter-DialogMenuExtension), [Companion](https://github.com/RenaudRl/TypeWriter-Companion-Public), [DualDisplay](https://github.com/RenaudRl/TypeWriter-DualDisplayExtension) |
-| **🛠️ Systems** | [RegionProtection](https://github.com/RenaudRl/Typewriter-RegionProtectionExtension), [NumericalStorage](https://github.com/RenaudRl/TypeWriter-NumericalStorage), [VoteSystem](https://github.com/RenaudRl/TypeWriter-VoteSystem-Public), [Tracking](https://github.com/RenaudRl/Typewriter-TrackingExtension), [PocketGUI](https://github.com/RenaudRl/TypeWriter-PocketGUI-Public), [ArcheryMinigame](https://github.com/RenaudRl/TypeWriter-ArcheryMinigameExtension-Public) |
+| **🛠️ Systems** | [RegionProtection](https://github.com/RenaudRl/Typewriter-RegionProtectionExtension), [NumericalStorage](https://github.com/RenaudRl/TypeWriter-NumericalStorage), [VoteSystem](https://github.com/RenaudRl/TypeWriter-VoteSystem-Public), [PocketGUI](https://github.com/RenaudRl/TypeWriter-PocketGUI-Public), [ArcheryMinigame](https://github.com/RenaudRl/TypeWriter-ArcheryMinigameExtension-Public) |
+
+#### 🔧 Forks & Optimizations
+We rework and optimize community-driven projects for maximum performance on Paper/Folia.
+
+*   🗺️ **[BlueMap](https://github.com/RenaudRl/BlueMap)**: Optimized 3D web maps.
+*   ⚙️ **[PlaceholderAPI](https://github.com/RenaudRl/PlaceholderAPI-Paper-Folia-1.21.11)**: High-performance placeholder support.
+*   🔐 **[LuckPerms](https://github.com/RenaudRl/LuckPerms-Paper-Folia-Velocity-1.21.11)**: Advanced permissions management for Folia/Velocity.
+*   🏗️ **[Craft Engine](https://github.com/RenaudRl/craft-engine)**: Detailed technical optimizations.
+*   💎 **Visuals & HUD**: [BetterDamage](https://github.com/RenaudRl/BetterDamage), [BetterModel](https://github.com/RenaudRl/BetterModel), [BetterHud](https://github.com/RenaudRl/BetterHud), [BetterHealthBar](https://github.com/RenaudRl/BetterHealthBar3).
 
 ---
 
 ### 📊 Statistics & Activity
-Always moving, always building.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RenaudRl&show_icons=true&theme=dracula&count_private=true" alt="GitHub stats" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenaudRl&layout=compact&theme=dracula" alt="Top Langs" />
+  <img src="https://github-readme-stats-seven-topaz.vercel.app/api?username=RenaudRl&show_icons=true&theme=dracula&count_private=true" alt="RenaudRl's GitHub stats" /><br/>
+  <img src="https://github-readme-stats-seven-topaz.vercel.app/api/top-langs/?username=RenaudRl&layout=compact&theme=dracula" alt="Top Langs" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RenaudRl&theme=dracula" alt="GitHub Streak" />
+  <img src="https://readme-stats-fast.vercel.app/api/streak?username=RenaudRl&theme=dracula" alt="GitHub Streak" />
 </p>
 
 ---
