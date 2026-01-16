@@ -15,7 +15,7 @@ At **BTC Studio**, we architect experiences to make Minecraft deeper and more im
 
 *   🎯 **Core Focus**: Most of our work is dedicated to developing extensions for the [TypeWriter](https://github.com/gabber235/Typewriter) ecosystem, pushing the boundaries of interactive questing and mechanics.
 *   🛠️ **Plugins & Optimization**: We also develop standalone plugins, custom forks, and optimize existing solutions to ensure a seamless server experience.
-*   📦 **Minecraft Versions**: We maintain specialized support for **Paper**, **Folia**, and our own **BTC Core** / **Advanced Slime Paper** adaptations.
+*   📦 **Minecraft Versions**: We maintain specialized support for **Paper**, **Folia**, and our own **BTC Core**.
 
 ---
 
