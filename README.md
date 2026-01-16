@@ -50,7 +50,7 @@ The next generation of questing and interactive mechanics.
 | **🛠️ Systems** | [RegionProtection](https://github.com/RenaudRl/Typewriter-RegionProtectionExtension), [NumericalStorage](https://github.com/RenaudRl/TypeWriter-NumericalStorage), [VoteSystem](https://github.com/RenaudRl/TypeWriter-VoteSystem-Public), [PocketGUI](https://github.com/RenaudRl/TypeWriter-PocketGUI-Public), [ArcheryMinigame](https://github.com/RenaudRl/TypeWriter-ArcheryMinigameExtension-Public) |
 
 #### 🔧 Forks & Optimizations
-We rework and optimize community-driven projects for maximum performance on Paper/Folia.
+We rework, add new features and optimize community-driven projects for maximum performance on Paper/Folia specific versions.
 
 *   🗺️ **[BlueMap](https://github.com/RenaudRl/BlueMap)**: Optimized 3D web maps.
 *   ⚙️ **[PlaceholderAPI](https://github.com/RenaudRl/PlaceholderAPI-Paper-Folia-1.21.11)**: High-performance placeholder support.
