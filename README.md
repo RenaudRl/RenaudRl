@@ -36,7 +36,7 @@ High-performance development tailored for modern Minecraft platforms.
 ### 🌟 Featured Projects
 
 #### 🛡️ Infrastructure Foundation
-*   **[BTC Core](https://github.com/RenaudRl/BTC-CORE)**: High-performance Paper fork optimized for our internal technologies.
+*   **[BTC Core](https://github.com/RenaudRl/BTC-CORE-Fork)**: High-performance Paper fork optimized for our internal technologies.
 *   **[BTC Velocity](https://github.com/RenaudRl/BTCVelocity)**: Specialized Velocity proxy adaptation for enhanced connectivity.
 
 #### 🖋️ [TypeWriter](https://github.com/gabber235/Typewriter) Ecosystem
@@ -54,7 +54,7 @@ We rework, add new features and optimize community-driven projects for maximum p
 
 *   🗺️ **[BlueMap](https://github.com/RenaudRl/BlueMap)**: Optimized 3D web maps.
 *   ⚙️ **[PlaceholderAPI](https://github.com/RenaudRl/PlaceholderAPI-Paper-Folia-1.21.11)**: High-performance placeholder support.
-*   🔐 **[LuckPerms](https://github.com/RenaudRl/LuckPerms-Paper-Folia-Velocity-1.21.11)**: Advanced permissions management.
+*   🔐 **[LuckPerms](https://github.com/RenaudRl/LuckPerms-Paper-Folia-Velocity-26.1.2)**: Advanced permissions management.
 *   🏗️ **[Craft Engine](https://github.com/RenaudRl/craft-engine)**: Ressource pack management.
 *   💎 **Visuals & HUD**: [BetterDamage](https://github.com/RenaudRl/BetterDamage), [BetterModel](https://github.com/RenaudRl/BetterModel), [BetterHud](https://github.com/RenaudRl/BetterHud), [BetterHealthBar](https://github.com/RenaudRl/BetterHealthBar3).
 
