@@ -1,16 +1,20 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/BTC_STUDIO-Designing_the_mechanics_of_tomorrow-6A5ACD?style=for-the-badge&logo=minecraft&logoColor=white" alt="BTC Studio" />
+<img src="https://img.shields.io/badge/BTC_STUDIO-Building_immersive_Minecraft_experiences-6A5ACD?style=for-the-badge&logo=minecraft&logoColor=white" alt="BTC Studio" />
 
-**Designing the mechanics of tomorrow • Creating immersion • Pushing limits**
+**19+ free TypeWriter extensions • Server infrastructure • [borntocraftstudio.net](https://borntocraftstudio.net)**
 
 </div>
 
 ---
 
-### 🎯 What We Do
+### 🎯 About
 
-We build the next generation of Minecraft RPG infrastructure — **TypeWriter extensions**, **Paper/Folia forks**, and **immersive tooling** for servers that refuse to compromise.
+BTC Studio builds the complete stack for immersive Minecraft servers.
+
+We maintain a growing ecosystem of **19 free & open-source TypeWriter extensions**, **custom Paper/Folia server forks**, and **open-source tooling** for the Minecraft community.
+
+> 🔗 **Looking for more?** Visit **[borntocraftstudio.net](https://borntocraftstudio.net)** for premium extensions, resources, and the full BTC ecosystem — or browse the **[documentation](https://docs.borntocraftstudio.net)** to explore every extension in detail.
 
 <table>
 <tr>
@@ -53,7 +57,7 @@ We build the next generation of Minecraft RPG infrastructure — **TypeWriter ex
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RenaudRl&theme=dracula&no-frame=true&column=7&margin-w=6&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RenaudRl&theme=dracula&no-frame=true&column=6&margin-w=6&no-bg=true" />
 </p>
 
 <p align="center">
@@ -62,87 +66,97 @@ We build the next generation of Minecraft RPG infrastructure — **TypeWriter ex
 
 ---
 
-### 🏗️ Infrastructure
-
-<p align="center">
-  <a href="https://github.com/RenaudRl/BTC-CORE-Fork"><img src="https://img.shields.io/badge/BTC_Core-High--performance_Paper_fork-6A5ACD?style=for-the-badge&logo=git&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://github.com/RenaudRl/BTCVelocity"><img src="https://img.shields.io/badge/BTC_Velocity-Proxy_adaptation-FFDC00?style=for-the-badge&logo=velocity&logoColor=black" /></a>
-</p>
-
----
-
 ### 🖋️ TypeWriter Ecosystem
 
-> The next generation of questing and interactive mechanics — **20+ extensions** powering the BornToCraft experience.
+> **19 free extensions** powering quests, mechanics, and immersion on the BornToCraft network — the largest public collection of TypeWriter addons. More available on **[borntocraftstudio.net](https://borntocraftstudio.net)**.
 
 <details open>
-<summary><b>🏆 Core Logic</b></summary>
+<summary><b>🧠 Core</b></summary>
 <br>
-<a href="https://github.com/RenaudRl/Typewriter-QuestCodexExtension-Public"><img src="https://img.shields.io/badge/QuestCodex-Quest_management-6A5ACD?style=flat-square" /></a>
-<a href="https://github.com/RenaudRl/Typewriter-TrackingExtension"><img src="https://img.shields.io/badge/Tracking-Player_tracking-6A5ACD?style=flat-square" /></a>
+<a href="https://github.com/RenaudRl/Typewriter-QuestCodexExtension-Public"><img src="https://img.shields.io/badge/QuestCodex-Quest_management_&_progression-6A5ACD?style=flat-square" /></a>
+<a href="https://github.com/RenaudRl/Typewriter-TrackingExtension"><img src="https://img.shields.io/badge/Tracking-Player_tracking_&_events-6A5ACD?style=flat-square" /></a>
 </details>
 
 <details>
 <summary><b>🎮 Gameplay</b></summary>
 <br>
-<a href="https://github.com/RenaudRl/Typewriter-EnchantementCreatorExtension"><img src="https://img.shields.io/badge/EnchantmentCreator-Custom_enchants-2EA043?style=flat-square" /></a>
-<a href="https://github.com/RenaudRl/AdvancedShopsExtension"><img src="https://img.shields.io/badge/AdvancedShops-Shop_system-2EA043?style=flat-square" /></a>
-<a href="https://github.com/RenaudRl/TypeWriter-AdvancedEnchantmentsExtension"><img src="https://img.shields.io/badge/AdvancedEnchants-Enchant_mechanics-2EA043?style=flat-square" /></a>
-<a href="https://github.com/RenaudRl/TypeWriter-VanillaExtension"><img src="https://img.shields.io/badge/VanillaExt-Vanilla_hooks-2EA043?style=flat-square" /></a>
-<a href="https://github.com/RenaudRl/TypeWriter-VanillaEnchantmentsExtension"><img src="https://img.shields.io/badge/VanillaEnchants-Vanilla_enchants-2EA043?style=flat-square" /></a>
-<a href="https://github.com/RenaudRl/Typewriter-Mmoinventory"><img src="https://img.shields.io/badge/Mmoinventory-Inventory_bridge-2EA043?style=flat-square" /></a>
+<a href="https://github.com/RenaudRl/Typewriter-EnchantementCreatorExtension"><img src="https://img.shields.io/badge/EnchantmentCreator-Custom_enchant_creation-2EA043?style=flat-square" /></a>
+<a href="https://github.com/RenaudRl/AdvancedShopsExtension"><img src="https://img.shields.io/badge/AdvancedShops-Shop_&_economy_system-2EA043?style=flat-square" /></a>
+<a href="https://github.com/RenaudRl/TypeWriter-AdvancedEnchantmentsExtension"><img src="https://img.shields.io/badge/AdvancedEnchants-AdvancedEnchantments_bridge-2EA043?style=flat-square" /></a>
+<a href="https://github.com/RenaudRl/TypeWriter-VanillaExtension"><img src="https://img.shields.io/badge/VanillaExt-Vanilla_mechanics_hooks-2EA043?style=flat-square" /></a>
+<a href="https://github.com/RenaudRl/TypeWriter-VanillaEnchantmentsExtension"><img src="https://img.shields.io/badge/VanillaEnchants-Vanilla_enchant_triggers-2EA043?style=flat-square" /></a>
+<a href="https://github.com/RenaudRl/Typewriter-Mmoinventory"><img src="https://img.shields.io/badge/Mmoinventory-MMOInventory_bridge-2EA043?style=flat-square" /></a>
+<a href="https://github.com/RenaudRl/TypeWriter-ArcheryMinigameExtension-Public"><img src="https://img.shields.io/badge/ArcheryMinigame-Archery_combat_mechanics-2EA043?style=flat-square" /></a>
+<a href="https://github.com/RenaudRl/TypeWriter-CustomBiomeExtension"><img src="https://img.shields.io/badge/CustomBiome-Custom_biome_triggers-2EA043?style=flat-square" /></a>
 </details>
 
 <details>
 <summary><b>✨ Immersion</b></summary>
 <br>
-<a href="https://github.com/RenaudRl/Typewriter-DialogMenuExtension"><img src="https://img.shields.io/badge/DialogMenu-Custom_dialogs-9966CC?style=flat-square" /></a>
-<a href="https://github.com/RenaudRl/TypeWriter-Companion-Public"><img src="https://img.shields.io/badge/Companion-NPC_companions-9966CC?style=flat-square" /></a>
-<a href="https://github.com/RenaudRl/TypeWriter-DualDisplayExtension"><img src="https://img.shields.io/badge/DualDisplay-Multi_GUI-9966CC?style=flat-square" /></a>
+<a href="https://github.com/RenaudRl/Typewriter-DialogMenuExtension"><img src="https://img.shields.io/badge/DialogMenu-Custom_dialog_system-9966CC?style=flat-square" /></a>
+<a href="https://github.com/RenaudRl/TypeWriter-Companion-Public"><img src="https://img.shields.io/badge/Companion-NPC_companion_system-9966CC?style=flat-square" /></a>
+<a href="https://github.com/RenaudRl/TypeWriter-DualDisplayExtension"><img src="https://img.shields.io/badge/DualDisplay-Multi--point_text_display-9966CC?style=flat-square" /></a>
 </details>
 
 <details>
-<summary><b>🛠️ Systems</b></summary>
+<summary><b>🛠️ Systems & Utilities</b></summary>
 <br>
-<a href="https://github.com/RenaudRl/Typewriter-RegionProtectionExtension"><img src="https://img.shields.io/badge/RegionProtection-Zone_protection-DD4444?style=flat-square" /></a>
-<a href="https://github.com/RenaudRl/TypeWriter-NumericalStorage"><img src="https://img.shields.io/badge/NumericalStorage-Data_persistence-DD4444?style=flat-square" /></a>
-<a href="https://github.com/RenaudRl/TypeWriter-VoteSystem-Public"><img src="https://img.shields.io/badge/VoteSystem-Player_voting-DD4444?style=flat-square" /></a>
-<a href="https://github.com/RenaudRl/TypeWriter-PocketGUI-Public"><img src="https://img.shields.io/badge/PocketGUI-Portable_menus-DD4444?style=flat-square" /></a>
-<a href="https://github.com/RenaudRl/TypeWriter-ArcheryMinigameExtension-Public"><img src="https://img.shields.io/badge/ArcheryMinigame-Archery_combat-DD4444?style=flat-square" /></a>
+<a href="https://github.com/RenaudRl/Typewriter-RegionProtectionExtension"><img src="https://img.shields.io/badge/RegionProtection-Zone_&_region_protection-DD4444?style=flat-square" /></a>
+<a href="https://github.com/RenaudRl/TypeWriter-NumericalStorage"><img src="https://img.shields.io/badge/NumericalStorage-Persistent_data_storage-DD4444?style=flat-square" /></a>
+<a href="https://github.com/RenaudRl/TypeWriter-VoteSystem-Public"><img src="https://img.shields.io/badge/VoteSystem-Player_voting_system-DD4444?style=flat-square" /></a>
+<a href="https://github.com/RenaudRl/TypeWriter-PocketGUI-Public"><img src="https://img.shields.io/badge/PocketGUI-Portable_GUI_menus-DD4444?style=flat-square" /></a>
+<a href="https://github.com/RenaudRl/CommunityExtension"><img src="https://img.shields.io/badge/Community-Community_features-2EA043?style=flat-square" /></a>
+</details>
+
+<details>
+<summary><b>🔌 Integrations</b></summary>
+<br>
+<a href="https://github.com/RenaudRl/Typewriter-MythicMobs"><img src="https://img.shields.io/badge/MythicMobs-MythicMobs_engine_bridge-DD4444?style=flat-square" /></a>
 </details>
 
 ---
 
-### 🔧 Forks & Optimizations
+### 🏗️ Server Infrastructure
 
-> Community projects reworked for maximum performance on Paper/Folia.
+<p align="center">
+  <a href="https://github.com/RenaudRl/BTC-CORE-Fork"><img src="https://img.shields.io/badge/BTC_Core-Optimized_Paper_fork_(26.1.2)-6A5ACD?style=for-the-badge&logo=git&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://github.com/RenaudRl/BTCVelocity"><img src="https://img.shields.io/badge/BTC_Velocity-Proxy_for_BTC_network-FFDC00?style=for-the-badge&logo=velocity&logoColor=black" /></a>
+  &nbsp;
+  <a href="https://github.com/RenaudRl/BTC-Typewriter-FOLIA-BTCCORE"><img src="https://img.shields.io/badge/BTC_TypeWriter-Engine_adapted_for_Folia/BTC_Core-6A5ACD?style=for-the-badge&logo=git&logoColor=white" /></a>
+</p>
+
+---
+
+### 🔧 Maintained Forks
+
+> Community projects adapted for our infrastructure — Folia support, Paper compatibility, and feature additions.
 
 <table>
 <tr>
 <td align="center" width="16%">
   <a href="https://github.com/RenaudRl/BlueMap"><b>🗺️ BlueMap</b></a><br>
-  <sub>3D web maps</sub>
+  <sub>3D web mapping</sub>
 </td>
 <td align="center" width="16%">
   <a href="https://github.com/RenaudRl/PlaceholderAPI-Paper-Folia-1.21.11"><b>⚙️ PlaceholderAPI</b></a><br>
-  <sub>Placeholder engine</sub>
+  <sub>Folia + 1.21.11+ support</sub>
 </td>
 <td align="center" width="16%">
   <a href="https://github.com/RenaudRl/LuckPerms-Paper-Folia-Velocity-26.1.2"><b>🔐 LuckPerms</b></a><br>
-  <sub>Permissions</sub>
+  <sub>Folia/Velocity 26.1.2</sub>
 </td>
 <td align="center" width="16%">
   <a href="https://github.com/RenaudRl/craft-engine"><b>🏗️ Craft Engine</b></a><br>
-  <sub>Resource packs</sub>
+  <sub>Custom blocks & items</sub>
 </td>
 <td align="center" width="18%">
   <a href="https://github.com/RenaudRl/BetterDamage"><b>💎 BetterDamage</b></a><br>
-  <sub>Damage system</sub>
+  <sub>Damage visualization</sub>
 </td>
 <td align="center" width="18%">
   <a href="https://github.com/RenaudRl/BetterModel"><b>🎨 BetterModel</b></a><br>
-  <sub>3D models</sub>
+  <sub>Bedrock model engine</sub>
 </td>
 </tr>
 <tr>
@@ -152,9 +166,13 @@ We build the next generation of Minecraft RPG infrastructure — **TypeWriter ex
 </td>
 <td align="center">
   <a href="https://github.com/RenaudRl/BetterHealthBar3"><b>❤️ BetterHealthBar</b></a><br>
-  <sub>Health bars</sub>
+  <sub>Health bar system</sub>
 </td>
-<td align="center" colspan="4"></td>
+<td align="center">
+  <a href="https://github.com/RenaudRl/Custom-Nameplates"><b>📛 Nameplates</b></a><br>
+  <sub>Custom name tags</sub>
+</td>
+<td align="center" colspan="3"></td>
 </tr>
 </table>
 
