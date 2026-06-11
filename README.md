@@ -12,7 +12,7 @@
 
 BTC Studio builds the complete stack for immersive Minecraft servers.
 
-We maintain a growing ecosystem of **19 free & open-source TypeWriter extensions**, **custom Paper/Folia server forks**, and **open-source tooling** for the Minecraft community.
+We maintain a growing ecosystem of **free & open-source TypeWriter extensions**, **custom Paper/Folia server forks**, and **open-source tooling** for the Minecraft community.
 
 > 🔗 **Looking for more?** Visit **[borntocraftstudio.net](https://borntocraftstudio.net)** for premium extensions, resources, and the full BTC ecosystem — or browse the **[documentation](https://docs.borntocraftstudio.net)** to explore every extension in detail.
 
